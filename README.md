@@ -4,4 +4,6 @@ Programs for calculators :
  - Physics
  - Chemistry
 
-These programs are mainly for Casio's 
+These programs are :
+- mainly for Casio's 
+- in French for now
