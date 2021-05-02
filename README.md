@@ -5,5 +5,5 @@ Programs for calculators :
  - Chemistry
 
 These programs are :
-- mainly for Casio's 
+- for casio' 90+E currently
 - in French for now
